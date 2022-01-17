@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Link to deployed web site [Website](https://damzy-crypton-app.netlify.app/)
+Link to deployed [Website](https://damzy-crypton-app.netlify.app/)
 
 ## Available Scripts
 
