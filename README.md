@@ -1,4 +1,4 @@
-# My Crypto Overview App
+# My Crypto App
 
 Link to deployed [Website](https://damzy-crypton-app.netlify.app/)
 
